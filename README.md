@@ -1,5 +1,9 @@
 # Snapp News
 
+News List | News Detail
+:---:|:---:
+![](screenshots/news_list.png) | ![](screenshots/news_detail.png)
+
 ## Requirements:
 - The app contains a screen that displays a list of news related to the keyword `Tehran`.
 - When a user clicks on a news item, they should be taken to a details page. You can choose what information to show on this page; it doesn't need to include everything.
